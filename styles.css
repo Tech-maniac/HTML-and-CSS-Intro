@@ -1,0 +1,17 @@
+
+#div4{
+    border-style: dotted;
+    border-width: 5px;
+    border-color: green;
+}
+#div1{
+    border-style: dotted;
+    border-width: 5px;
+    border-color: blue;
+}
+
+.div1{
+    /* Shorthand property */
+    border: red 3px solid;
+}
+
